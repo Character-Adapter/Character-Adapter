@@ -1,7 +1,7 @@
 # Character-Adapter<div align="center">
 <h1>Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization</h1>
 
-Yuhang Ma · Wenting Xu · Jiji Tang · Qinfeng Jin · Rongsheng Zhang · Zeng Zhao · Bai Liu · Changjie Fan · Zhipeng Hu 
+Yuhang Ma<sup>1</sup> · Wenting Xu<sup>1</sup> · Jiji Tang<sup>1</sup> · Qinfeng Jin<sup>1</sup> · Rongsheng Zhang<sup>1</sup> · Zeng Zhao<sup>1</sup> · Bai Liu<sup>1</sup> · Changjie Fan<sup>1</sup> · Zhipeng Hu<sup>1</sup>
 
 
 <sup>1</sup>Fuxi AI Lab, NetEase Inc.
