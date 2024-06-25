@@ -6,7 +6,7 @@ Yuhang Ma<sup>1</sup> · Wenting Xu<sup>1</sup> · Jiji Tang<sup>1</sup> · Qinf
 <sup>1</sup>Fuxi AI Lab, NetEase Inc.
 
 <a href='https://character-adapter.github.io/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
-<a href='https://arxiv.org/abs/2406.16537'><img src='https://img.shields.io/badge/Arxiv Paper-red'></a>
+<a href='https://arxiv.org/abs/2406.16537'><img src='https://img.shields.io/badge/Arxiv-Paper-red'></a>
 
 </div>
 
