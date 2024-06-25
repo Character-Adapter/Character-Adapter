@@ -14,8 +14,8 @@ Character-Adapter empowers the customization of concepts while preserving the hi
 
 <img src='assert/intro.jpg'>
 
-## Release
-- [2024/06/25] 🔥 Code is coming soon.
+## Updates
+- [2024/06/25] Code is coming soon.
 - [2024/06/25] 🔥 We release the [paper](https://arxiv.org/abs/2406.16537) and the [project page](https://character-adapter.github.io/).
 
 
