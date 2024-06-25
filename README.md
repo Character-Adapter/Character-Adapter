@@ -42,7 +42,7 @@ Character-Adapter is designed to generate highly consistent characters with intr
   <img src="assert/application.png">
 </p>
 
-### Comparison with Previous Works
+## Comparison with Previous Works
 Compared with other methods, including both fine-tuned and training-free methods, Character-Adapter generates high-fidelity multi-character images with intricate details while preserving text-image alignment. 
 
 <p align="center">
