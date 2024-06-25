@@ -1,9 +1,7 @@
 # Character-Adapter<div align="center">
 <h1>Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization</h1>
 
-[**Qixun Wang**](https://github.com/wangqixun)<sup>12</sup> · [**Xu Bai**](https://huggingface.co/baymin0220)<sup>12</sup> · [**Haofan Wang**](https://haofanwang.github.io/)<sup>12*</sup> · [**Zekui Qin**](https://github.com/ZekuiQin)<sup>12</sup> · [**Anthony Chen**](https://antonioo-c.github.io/)<sup>123</sup>
-
-Huaxia Li<sup>2</sup> · Xu Tang<sup>2</sup> · Yao Hu<sup>2</sup>
+[**Yuhang Ma**] · [**Wenting Xu**] · [**Jiji Tang**] · [**Qinfeng Jin**] · [**Rongsheng Zhang**] · [**Zeng Zhao**] · [**Bai Liu**] · [**Changjie Fan**] · [**Zhipeng Hu**] 
 
 <sup>1</sup>Fuxi AI Lab, NetEase Inc.
 
