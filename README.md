@@ -13,7 +13,7 @@ Yuhang Ma<sup>1</sup> · Wenting Xu<sup>1</sup> · Jiji Tang<sup>1</sup> · Qinf
 
 Character-Adapter empowers the customization of concepts while preserving the high-fidelity appearance of given characters (without any quantitative limitations), encompassing attributes such as hairstyle, identity, attire, and others without extra training.
 
-<img src='asset/intro.jpg'>
+<img src='assert/intro.jpg'>
 
 ## Release
 - [2024/06/25] 🔥 Code is coming soon.
@@ -26,27 +26,27 @@ Character-Adapter is designed to generate highly consistent characters with intr
 ### Customize Your Character/Characters to Anywhere
 
 <p align="center">
-  <img src="asset/additional_result.png">
+  <img src="assert/additional_result.png">
 </p>
 
 ### Transfer Your Character/Characters into Any Style
 
 <p align="center">
-  <img src="asset/person_style.png">
+  <img src="assert/person_style.png">
 </p>
 
 ### Extended Application
 
 
 <p align="center">
-  <img src="asset/application.png">
+  <img src="assert/application.png">
 </p>
 Compared with other methods, including both fine-tuned and training-free methods, Character-Adapter generates high-fidelity multi-character images with intricate details while preserving text-image alignment. 
 
 ### Comparison with Previous Works
 
 <p align="center">
-  <img src="asset/showcase.png">
+  <img src="assert/showcase.png">
 </p>
 
 
